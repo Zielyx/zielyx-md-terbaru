@@ -16,16 +16,16 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
-global.packname = '© YahyaGanzz'
-global.gc = 'https://github.com/AzzBott679'
-global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+global.owner = ['6285773914826']
+global.premium = ['6285773914826']
+global.ownername = 'ZielyxGanzz'
+global.botname = 'YxxilBot•MD'
+global.packname = '© ZielyxGanzz'
+global.gc = 'https://github.com/Zielyx'
+global.linkyt = 'https://youtube.com/channel/UCRgvPzp1RzLG4DFv_MQGjiQ'
 global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
 global.limitawal = '10'
-global.author = '@yahyaganzz\n@AzzBot'
+global.author = '@zielyxganzz\n@YxxilBot'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
@@ -33,7 +33,7 @@ global.mess = {
     success: 'Berhasil',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus Owner AwogAwog',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
